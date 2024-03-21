@@ -26,7 +26,7 @@ releases:
     lts: true
     releaseDate: 2020-06-04
     eol: 2021-12-31
-    extendedSupport: true
+    extendedSupport: false
     latest: "1.8.3"
     latestReleaseDate: 2022-04-07
 
@@ -47,7 +47,7 @@ releases:
 -   releaseCycle: "1.5"
     releaseDate: 2016-02-05
     eol: 2021-12-31
-    extendedSupport: true
+    extendedSupport: false
     latest: "1.5.11"
     latestReleaseDate: 2017-01-12
 
